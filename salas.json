@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": " Sasuke",
+        "descricao": "Descrição da Sala A"
+    },
+    {
+        "id": 2,
+        "nome": "Naruto",
+        "descricao": "Descrição da Sala B"
+    },
+    {
+        "id": 3,
+        "nome": " Sakura",
+        "descricao": "Descrição da Sala C"
+    },
+    {
+        "id": 4,
+        "nome": " Kakashi",
+        "descricao": "Descrição da Sala D"
+    }
+]
